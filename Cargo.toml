@@ -1,0 +1,8 @@
+[package]
+name = "TavernaCoin"
+version = "0.0.1"
+authors = ["Henrique <contato@henriquedev.com>"]
+edition = "2021"
+
+[dependencies]
+serde = "1.0"
